@@ -10,6 +10,12 @@ body, html{
 
 /* maldives edited*/
 
+#lang-key2{
+	padding-top: 10px !important;
+}
+#img-icon{
+	margin-bottom: 17px;
+}
 /* Zoom Out #1 */
 .hover03 img {
 	-webkit-transform: scale(0.8);
