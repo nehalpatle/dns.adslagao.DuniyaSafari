@@ -7,7 +7,9 @@ body, html{
 /**{
 	transition: all 0.4s ease;
 }*/
+
 /* maldives edited*/
+
 /* Zoom Out #1 */
 .hover03 img {
 	-webkit-transform: scale(0.8);
@@ -19,7 +21,7 @@ body, html{
 	-webkit-transform: scale(1.05);
 	transform: scale(1.05);
 }
-
+/*  */
 
 ul{
 	list-style: none;
@@ -1606,8 +1608,12 @@ font-size: 14px;
 }
 .landing-banner .owl-item:after{
 	z-index: -1;
-	height: 70%;
+	height: 90%;
+	background-position: top center;
 }
+ img{
+	transition: all 0.4s ease;
+	}
 .scroll_inner{
     position: absolute;
     left: 0;
