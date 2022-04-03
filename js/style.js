@@ -30,7 +30,7 @@ jQuery( document ).ready(function() {
         items: 1,
         nav:false,
         dots:true,
-        autoplay:true,
+        autoplay:false,
     })
     jQuery(".press-says-slider").owlCarousel({ 
         loop:true,
